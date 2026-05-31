@@ -1,3 +1,4 @@
+/* VISUAL PARA O COMPUTADOR */
 body {
     margin: 0;
     font-family: Arial, sans-serif;
@@ -87,6 +88,34 @@ body {
     height: 35px;
     object-fit: contain;
     border-radius: 4px;
-    background: #000; 
-    padding: 20px;
+    background: #000;
+}
+
+/* VISUAL AUTOMÁTICO PARA O CELULAR (QUANDO A TELA FOR PEQUENA) */
+@media (max-width: 768px) {
+    body {
+        flex-direction: column;
+        height: auto;
+    }
+
+    #sidebar {
+        width: 100%;
+        border-right: none;
+        border-top: 1px solid #333;
+        padding: 15px;
+    }
+
+    #player-container {
+        width: 100%;
+        position: sticky;
+        top: 0;
+        z-index: 100;
+        padding: 10px;
+        box-sizing: border-box;
+        background: #000;
+    }
+
+    #player {
+        max-width: 100%;
+    }
 }
