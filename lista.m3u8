@@ -1,0 +1,215 @@
+#EXTM3U
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://listaiptvbrasil.com/logos/imagens/sbt.png",SBT Interior SP
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://listaiptvbrasil.com/logos/imagens/tvguajara.png",SBT TV Guajará (PA)
+https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://listaiptvbrasil.com/logos/imagens/recordtv.png",RecordTV MT
+https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://listaiptvbrasil.com/logos/imagens/recordtv.png",RecordTV MT 2
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://listaiptvbrasil.com/logos/imagens/recordtv.png",RecordTV MT 3
+https://5a2b083e9f360.streamlock.net/tvmt/tvmt.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://listaiptvbrasil.com/logos/imagens/recordtv.png",RecordTV NDTV SC
+https://caikron.com.br:19360/criciuma/criciuma.m3u8
+#EXTINF:-1 group-title="Jornalismo" tvg-logo="https://listaiptvbrasil.com/logos/imagens/recnews.png",Record News
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://listaiptvbrasil.com/logos/imagens/arapuam.png",Band - TV Arapuan HD (PB)
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://listaiptvbrasil.com/wp-content/uploads/2023/12/redetv-pr.webp",RedeTV! TV PR
+https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://listaiptvbrasil.com/logos/imagens/tvpantanalredetv.png",RedeTV! TV Pantanal (MT)
+https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Música" tvg-logo="https://listaiptvbrasil.com/logos/imagens/kpoptvplay.png",Kpop TV Play
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://listaiptvbrasil.com/wp-content/uploads/2023/08/playtv.png",PlayTV
+https://isaocorp.cloudecast.com/playtv/mono.m3u8
+#EXTINF:-1 group-title="WebTV" tvg-logo="https://listaiptvbrasil.com/logos/imagens/loadingamarelo.png",Loading - Web TV
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 group-title="WebTV" tvg-logo="https://listaiptvbrasil.com/logos/imagens/jetsons.png",Jetsons - Webtv
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+#EXTINF:-1 group-title="Pública" tvg-logo="https://listaiptvbrasil.com/logos/imagens/200px-logotipo_da_tv_brasil.png",TV Brasil  Web
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 group-title="Pública" tvg-logo="https://listaiptvbrasil.com/wp-content/uploads/2023/07/canalgov.png",Canal Gov
+https://canalgov-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 group-title="Pública" tvg-logo="https://listaiptvbrasil.com/wp-content/uploads/2023/03/canaleducacao.jpeg",Canal Educação
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 group-title="Pública" tvg-logo="https://listaiptvbrasil.com/wp-content/uploads/2023/07/canallibras-1.png",Canal Libras
+https://canallibras-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://listaiptvbrasil.com/logos/imagens/brasiloeste.png",Brasil Oeste (MT)
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+#EXTINF:-1 group-title="Pública" tvg-logo="https://listaiptvbrasil.com/logos/imagens/1180px-cultura_logo_2013.svg_.png",TV Cultura - TV Guará (MA)
+https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u
+#EXTINF:-1 group-title="Pública" tvg-logo="https://listaiptvbrasil.com/logos/imagens/1180px-cultura_logo_2013.svg_.png",TV Cultura - TV Futuro (RJ)
+https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
+#EXTINF:-1 group-title="Pública" tvg-logo="https://listaiptvbrasil.com/wp-content/uploads/2023/03/tbc.png",TV Brasil Central - Cultura (GO)
+https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8
+#EXTINF:-1 group-title="Pública" tvg-logo="https://listaiptvbrasil.com/logos/imagens/culturapara.png",Cultura Pará
+https://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
+#EXTINF:-1 group-title="Pública" tvg-logo="https://listaiptvbrasil.com/logos/imagens/catve.png",Catve - Cultura (PR)
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://listaiptvbrasil.com/wp-content/uploads/2023/12/RTN-logo.png",RTN
+https://tv01.zas.media:1936/rtntv/rtntv/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://listaiptvbrasil.com/wp-content/uploads/2023/05/petlovers.jpg",Pet Lovers TV
+https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
+#EXTINF:-1 group-title="Pública" tvg-logo="https://listaiptvbrasil.com/logos/imagens/logo_redeparanaeducativa.png",Paraná Turismo
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 group-title="Pública" tvg-logo="https://listaiptvbrasil.com/wp-content/uploads/2023/12/guiatv.png",GuiaTV
+https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/playlist.m3u8
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://listaiptvbrasil.com/logos/imagens/kuriakos2bkids.png",Kuriakos Kids
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1 group-title="Pública" tvg-logo="https://listaiptvbrasil.com/logos/imagens/rede-minas-original.jpg",Rede Minas
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
+#EXTINF:-1 group-title="Pública" tvg-logo="https://listaiptvbrasil.com/logos/imagens/logo-tve-png.png",TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 group-title="Música" tvg-logo="https://listaiptvbrasil.com/logos/imagens/1200px-kronehit_logo2018_nachtblau_rgb.svg_.png",KroneHIT
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1 group-title="Música" tvg-logo="https://listaiptvbrasil.com/logos/imagens/1onemus.png",1Mus
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 group-title="Música" tvg-logo="https://listaiptvbrasil.com/logos/imagens/logo_capital_1024x1024-768x384.png",Capital TV
+https://streamcdnc1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
+#EXTINF:-1 group-title="Música" tvg-logo="https://listaiptvbrasil.com/logos/imagens/1200px-radio_m2o_-_logo_2019.svg_.png",M2O
+https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://listaiptvbrasil.com/logos/imagens/tvmarajoara.png",Rede Brasil - TV Marajoara (PA)
+https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://listaiptvbrasil.com/logos/imagens/2018091805332321logotipo_da_tv_aparecida.png",TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://listaiptvbrasil.com/logos/imagens/ainraga.png",IURD TV
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://listaiptvbrasil.com/logos/imagens/redegospel.png",Rede Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://listaiptvbrasil.com/logos/imagens/smilinguido.png",Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://listaiptvbrasil.com/logos/imagens/gospel.jpg",Gospel Movie TV
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 group-title="Música" tvg-logo="https://listaiptvbrasil.com/logos/imagens/gospelmusic.jpg",Gospel Music
+https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://listaiptvbrasil.com/logos/imagens/cinekuriakos.png",KURIAKOS CINE
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://listaiptvbrasil.com/logos/imagens/central.png",Central TV
+https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://listaiptvbrasil.com/wp-content/uploads/2023/03/maisfamilia.png",Mais Família
+https://video09.logicahost.com.br/redefamilia/redefamilia/playlist.m3u8
+#EXTINF:-1 group-title="Pública" tvg-logo="https://listaiptvbrasil.com/logos/imagens/rede-fonte.png",FonteTV (GO)
+http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
+#EXTINF:-1 group-title="Pública" tvg-logo="https://listaiptvbrasil.com/logos/imagens/camara.png",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 group-title="Pública" tvg-logo="https://listaiptvbrasil.com/logos/imagens/logotipo_da_tv_metrc3b3pole.png",TV Metrópole
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+#EXTINF:-1 group-title="WebTV" tvg-logo="https://listaiptvbrasil.com/logos/imagens/morena.png",Via Morena
+https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://listaiptvbrasil.com/logos/imagens/adesso.png",Adesso TV
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
+#EXTINF:-1 group-title="WebTV" tvg-logo="https://listaiptvbrasil.com/logos/imagens/logo2btv-0.png",TV Aracati
+https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
+#EXTINF:-1 group-title="WebTV" tvg-logo="https://listaiptvbrasil.com/logos/imagens/tvdigitalbirigui.jpg",TV Birigui
+https://video03.logicahost.com.br/tvdigitalbirigui/tvdigitalbirigui/playlist.m3u8
+#EXTINF:-1 group-title="Pública" tvg-logo="https://listaiptvbrasil.com/logos/imagens/logo_-_canal_sac3bade.jpg",Canal Saúde
+https://cdn.eduplay.rnp.br/route/CFwapWdsWCYQ/index.m3u8?s=aHR0cHM6Ly9tZWRpYS5lZHVwbGF5LnJucC5ici9tZWRpYS9DRndhcFdkc1dDWVEvaW5kZXgubTN1OD94PTEmbT0tOV9icElwMl9ySFA4V0dnUERBRFRn&x=1&p=0&m=IC4XC7sMNA-G56lk0uY-Hg&nr=true
+#EXTINF:-1 group-title="Documentário" tvg-logo="https://listaiptvbrasil.com/logos/imagens/tvideonews.png",TVídeoNews
+https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://listaiptvbrasil.com/logos/imagens/ngt.png",NGT
+https://isaocorp.cloudecast.com/ngt/index.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://listaiptvbrasil.com/logos/imagens/diariodosertao.png",TV Diário do Sertão
+https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://listaiptvbrasil.com/logos/imagens/istv.png",ISTV
+https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
+#EXTINF:-1 group-title="WebTV" tvg-logo="https://listaiptvbrasil.com/logos/imagens/tvdestak.png",TV Destak - WebTV
+https://video03.logicahost.com.br/pascoal/pascoal/playlist.m3u8
+#EXTINF:-1 group-title="WebTV" tvg-logo="https://listaiptvbrasil.com/logos/imagens/tvseries.png",TV Séries - WebTV
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://listaiptvbrasil.com/logos/imagens/tvcandideslogo.png",TV Candidés
+https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
+#EXTINF:-1 group-title="Pública" tvg-logo="https://listaiptvbrasil.com/logos/imagens/tvmaceio.jpg",TV Maceió (AL)
+https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8
+#EXTINF:-1 group-title="WebTV" tvg-logo="https://listaiptvbrasil.com/logos/imagens/tvjsid.png",TV Sjid (BA)
+https://video05.logicahost.com.br/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:-1 group-title="Música" tvg-logo="https://listaiptvbrasil.com/logos/imagens/rtl.png",RTL (Itália)
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+#EXTINF:-1 group-title="Música" tvg-logo="https://listaiptvbrasil.com/logos/imagens/ockostar.png",Ocko Star
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8
+#EXTINF:-1 group-title="Música" tvg-logo="https://listaiptvbrasil.com/logos/imagens/4Fun-TV.png",4Fun TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1 group-title="Música" tvg-logo="https://listaiptvbrasil.com/logos/imagens/Colosal-TV.png",Colosal TV
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://listaiptvbrasil.com/logos/imagens/bnzdrdjj.jpg",TV Brusque (SC)
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://listaiptvbrasil.com/logos/imagens/tvredeboasnovas.png",Boas Novas
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://listaiptvbrasil.com/logos/imagens/logo_sic_2018.png",SIC (apenas em Portugal)
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+#EXTINF:-1 group-title="Jornalismo" tvg-logo="https://listaiptvbrasil.com/logos/imagens/635px-france24.png",France 24
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXTINF:-1 group-title="Jornalismo" tvg-logo="https://listaiptvbrasil.com/logos/imagens/TV5-Monde-Info.png",TV5 Monde Info
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://listaiptvbrasil.com/logos/imagens/arirang_logo.png",Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="Jornalismo" tvg-logo="https://listaiptvbrasil.com/logos/imagens/1280px-bloomberg_television_logo.svg_.png",Bloomberg TV
+https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://listaiptvbrasil.com/logos/imagens/dw.png",Deutsche Welle
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://listaiptvbrasil.com/logos/imagens/redbull.png",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/622817/BoRB-US/master.m3u8
+#EXTINF:-1 group-title="Documentário" tvg-logo="https://listaiptvbrasil.com/logos/imagens/rt.png",RT Documentary Channel
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://listaiptvbrasil.com/logos/imagens/Canal-Extremadura.png",Canal Extremadura
+https://cdnlive.codev8.net/canalextremaduralive/smil:channel1.smil/playlist.m3u8
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://listaiptvbrasil.com/logos/imagens/ewtn.png",EWTN
+https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="Jornalismo" tvg-logo="https://listaiptvbrasil.com/logos/imagens/russiatoday.jpg",RT en español
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 group-title="Jornalismo" tvg-logo="https://listaiptvbrasil.com/logos/imagens/cctv13.png",CCTV Notícias
+https://cctvtxyhwh5c.liveplay.myqcloud.com/live/cdrmcctv13_1/index.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://listaiptvbrasil.com/logos/imagens/sictv.png",SIC TV  Local - Record Rondônia
+https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
+#EXTINF:-1 group-title="Pública" tvg-logo="https://listaiptvbrasil.com/logos/imagens/combrasil.png",TV COM BRASIL
+https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
+#EXTINF:-1 group-title="Pública" tvg-logo="https://listaiptvbrasil.com/wp-content/uploads/2023/02/tvcommaceio.png",TV COM MACEIÓ
+https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
+#EXTINF:-1 group-title="Pública" tvg-logo="https://listaiptvbrasil.com/wp-content/uploads/2023/09/tvassembleia.png",TV Assembléia Maceió
+https://5c483b9d1019c.streamlock.net/staffvideotv/staffvideotv/playlist.m3u8
+#EXTINF:-1 group-title="Rádio" tvg-logo="https://listaiptvbrasil.com/logos/imagens/fm-o-dia-foto.jpg",FM O DIA 100.5 - ESTÚDIO AO VIVO
+https://cdn.livespanel.com/live/fmodia/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://imgur.com/90kb4L2.png",RTV CANAL 38
+https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/chunklist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://imgur.com/FioVeSb.png",MASTER TV PR
+http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://imgur.com/wqOAIgT.png",PLAN TV
+https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://i.imgur.com/9Dx6Yqy.png",UNISUL TV
+https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=4792034880553908000
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://imgur.com/DPXwC9p.png",TV CHROMA
+https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://imgur.com/Vj7VjrB.png",TV VICOSA
+http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://imgur.com/zq9ZcXP.png",TV SETE LAGOAS
+https://video04.logicahost.com.br/santiagoproducoes/santiagoproducoes/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://imgur.com/4o6Xeee.png",TV COM DF
+https://5b7f3c45ab7c2.streamlock.net:443/8008/smil:8008.smil/playlist.m3u8?DVR
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://imgur.com/6bA9LbZ.png",PEGADINHAS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a286daf888610007669801/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65b02980-f3eb-11eb-8277-1f560e8d79bd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca421eb5-e83c-4e34-97f4-f9566ee8dada&userId=&serverSideAds=true
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://imgur.com/6T0azXF.png",TV BRICS
+https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://imgur.com/diAxFOm.png",ADESSO TV
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://imgur.com/1Nf2kbP.png",TV SUL BAHIA
+https://a.cdni.live/radiomultimidia/radiomultimidia/chunklist_w1711981393.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://imgur.com/H0KkYjd.png",TV ALIANCA CATARINENSE
+https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://imgur.com/bYIUQJb.png",TV METROPOLITANA RIO
+https://alanza.iptv2022.com/METROPOLITANA_RIO/index.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://imgur.com/5S4QHxX.png",ELYTV
+https://stmv1.srvsite.com/ely/ely/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://imgur.com/Yr8diVX.png",DEMAIS TV
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://imgur.com/cWd3wHS.png",TV PASSO FUNDO
+https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://imgur.com/Ea5KBfh.png",TV CLUBE WEB
+https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://imgur.com/MByVw7Z.png",REDE SPTV
+https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://imgur.com/XaTKJef.png",SERTAO TV
+http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://imgur.com/OPIwjmg.png",TV STA CECILIA
+https://60d88f8ce1206.streamlock.net/2063/2063/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://imgur.com/X3lIFxM.png",FALA LITORAL WEB TV
+https://5c483b9d1019c.streamlock.net:443/falalitoraltv/falalitoraltv/playlist.m3u8

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Player IPTV</title>
+    
+    <link rel="stylesheet" href="./src/css/style.css">
+</head>
+<body>
+
+    <div id="sidebar">
+        <h3>Lista de Canais</h3>
+        <input type="text" id="busca" placeholder="Digite o nome do canal..." onkeyup="filtrarCanais()">
+        <div id="lista-canais"></div>
+    </div>
+
+    <div id="player-container">
+        <video id="player" controls autoplay muted width="100%" height="100%"></video>
+    </div>
+
+    
+    <script src="src/js/script.js"></script>
+</body>
+</html>
